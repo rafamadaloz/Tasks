@@ -1,4 +1,6 @@
-# todo
+# Tasks
+
+![](tasks.gif)
 
 ## Project setup
 ```
